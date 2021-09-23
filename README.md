@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhirajArun
 - 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning React, node and deployment
+- 🌱 I’m currently learning React, node
 - 💞️ I’m looking to collaborate on react and node
 - 📫 Reach me through: dhrjarun@gmail.com
 
