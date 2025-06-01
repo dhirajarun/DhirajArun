@@ -1,3 +1,3 @@
 👋 Hi, 
 
-I’m @DhirajArun Check out [my website](https://dhrjarun.com) to learn more about me.
+I’m @DhirajArun Check out [my website](https://dhirajarun.com) to learn more about me.
